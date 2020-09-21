@@ -5,10 +5,10 @@
 hello
 world
 
+ویکی پدیا
 https://wikipedia.org
 
 
-== جستارهای وابسته ==
 
-
+گیتهاب
 https://github.com
