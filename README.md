@@ -15,3 +15,6 @@ https://github.com
 
 
 http://my-mind.github.io/
+
+
+https://atom.io/
