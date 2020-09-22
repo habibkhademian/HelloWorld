@@ -28,4 +28,5 @@ https://github.com/PowerShell
 
 
 
+شاهراه بزرگ به سوی گوگل
 https://about.google/intl/fa/products/?tab=wh
