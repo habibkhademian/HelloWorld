@@ -31,3 +31,7 @@ https://github.com/PowerShell
 شاهراه بزرگ به سوی گوگل
 
 https://about.google/intl/fa/products/?tab=wh
+
+
+
+https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git
