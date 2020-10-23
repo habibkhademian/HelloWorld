@@ -1,7 +1,7 @@
 # hello world
+# git [![Build Status](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://git-scm.com)
 
-
-# habib [![habib khademians](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://git-scm.com)
+# habib [![](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://git-scm.com)
 
 hello
 world
