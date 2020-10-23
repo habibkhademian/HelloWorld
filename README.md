@@ -33,7 +33,7 @@ https://github.com/PowerShell
 https://about.google/intl/fa/products/?tab=wh
 
 
-[![build status]
+
 
 
 
