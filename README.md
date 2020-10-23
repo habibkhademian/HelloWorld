@@ -6,8 +6,7 @@
 
 # habib atom.io [![](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://atom.io)
 
-ویکی پدیا
-https://wikipedia.org
+#  habibkhademian [![](https://travis-ci.com/imagemin/imagemin.svg?branch=master)](https://github.com/habibkhademian)
 
 
 
